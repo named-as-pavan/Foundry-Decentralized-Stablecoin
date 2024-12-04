@@ -112,8 +112,7 @@ Contributions are welcome! Please follow these steps:
 ## 📞 Contact
 
 For questions or support, reach out at:
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: solodevelopershub@gmail.com
 
 ---
 
